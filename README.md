@@ -8,7 +8,7 @@ The application allows a user to select a movie and receive **5 similar movie re
 
 Add your deployed Streamlit URL here:
 
-`https://your-app-name.streamlit.app`
+"movie-recommendation-system-g4zdyqhpydlrnhayt6w4mb"
 
 ## 📌 Project Overview
 
