@@ -4,9 +4,6 @@ A Machine Learning based **Content-Based Movie Recommendation System** built wit
 
 The application allows a user to select a movie and receive **5 similar movie recommendations** through a simple web interface.
 
-## 🌐 Live Demo
-
-Add your deployed Streamlit URL here:
 
 ## 🌐 Live Demo
 
